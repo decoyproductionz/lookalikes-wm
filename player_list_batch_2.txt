@@ -1,0 +1,252 @@
+"Patrik Schick" "Czechia" headshot
+"Jan Kliment" "Czechia" headshot
+"Tomás Chorý" "Czechia" headshot
+"Tomás Ladra" "Czechia" headshot
+"Mojmír Chytil" "Czechia" headshot
+"Kwon Hyeok-Kyu" "South Korea" headshot
+"Oh Hyun-Gyu" "South Korea" headshot
+"Joel Monteiro" "Switzerland" headshot
+"Josué Casimir" "Haiti" headshot
+"Ruben Providence" "Haiti" headshot
+"Woobens Pacius" "Haiti" headshot
+"Yassine Bounou" "Morocco" headshot
+"El Mehdi Benabid" "Morocco" headshot
+"Mehdi Harrar" "Morocco" headshot
+"Issa Diop" "Morocco" headshot
+"Noussair Mazraoui" "Morocco" headshot
+"Achraf Hakimi" "Morocco" headshot
+"Souffian El Karouani" "Morocco" headshot
+"Anass Salah-Eddine" "Morocco" headshot
+"Chadi Riad" "Morocco" headshot
+"Zakaria El Ouahdi" "Morocco" headshot
+"Redouane Halal" "Morocco" headshot
+"Ismaël Baouf" "Morocco" headshot
+"Abdelhamid Aït Boudlal" "Morocco" headshot
+"Brahim Díaz" "Morocco" headshot
+"Azzedine Ounahi" "Morocco" headshot
+"Ismael Saibari" "Morocco" headshot
+"Oussama Targhaline" "Morocco" headshot
+"Neil El Aynaoui" "Morocco" headshot
+"Bilal El Khannouss" "Morocco" headshot
+"Mohamed Hrimat" "Morocco" headshot
+"Samir El Mourabet" "Morocco" headshot
+"Ayoub El Kaabi" "Morocco" headshot
+"Soufiane Rahimi" "Morocco" headshot
+"Amine Adli" "Morocco" headshot
+"Abde Ezzalzouli" "Morocco" headshot
+"Chemsdine Talbi" "Morocco" headshot
+"Gessime Yassine" "Morocco" headshot
+"Yassir Zabiri" "Morocco" headshot
+"Rayane Bounida" "Morocco" headshot
+"Liam Kelly" "Scotland" headshot
+"Scott Bain" "Scotland" headshot
+"Angus Gunn" "Scotland" headshot
+"Andrew Robertson" "Scotland" headshot
+"Grant Hanley" "Scotland" headshot
+"John Souttar" "Scotland" headshot
+"Scott McKenna" "Scotland" headshot
+"Ross McCrorie" "Scotland" headshot
+"Jack Hendry" "Scotland" headshot
+"Kieran Tierney" "Scotland" headshot
+"Anthony Ralston" "Scotland" headshot
+"Dominic Hyam" "Scotland" headshot
+"Nathan Patterson" "Scotland" headshot
+"Ryan Christie" "Scotland" headshot
+"Kenny McLean" "Scotland" headshot
+"John McGinn" "Scotland" headshot
+"Lewis Ferguson" "Scotland" headshot
+"Andrew Irving" "Scotland" headshot
+"Scott McTominay" "Scotland" headshot
+"Billy Gilmour" "Scotland" headshot
+"Lennon Miller" "Scotland" headshot
+"Lyndon Dykes" "Scotland" headshot
+"Ché Adams" "Scotland" headshot
+"George Hirst" "Scotland" headshot
+"Tommy Conway" "Scotland" headshot
+"Findlay Curtis" "Scotland" headshot
+"Mathew Ryan" "Australia" headshot
+"Paul Izzo" "Australia" headshot
+"Patrick Beach" "Australia" headshot
+"Milos Degenek" "Australia" headshot
+"Jason Geria" "Australia" headshot
+"Aziz Behich" "Australia" headshot
+"Cameron Burgess" "Australia" headshot
+"Kye Rowles" "Australia" headshot
+"Fran Karacic" "Australia" headshot
+"Kai Trewin" "Australia" headshot
+"Jordan Bos" "Australia" headshot
+"Alessandro Circati" "Australia" headshot
+"Lucas Herrington" "Australia" headshot
+"Awer Mabil" "Australia" headshot
+"Ajdin Hrustic" "Australia" headshot
+"Riley McGree" "Australia" headshot
+"Aiden O'Neill" "Australia" headshot
+"Connor Metcalfe" "Australia" headshot
+"Alex Robertson" "Australia" headshot
+"Patrick Yazbek" "Australia" headshot
+"Paul Okon" "Australia" headshot
+"Martin Boyle" "Australia" headshot
+"Jacob Italiano" "Australia" headshot
+"Nishan Velupillay" "Australia" headshot
+"Deni Juric" "Australia" headshot
+"Nestory Irankunda" "Australia" headshot
+"Ante Suto" "Australia" headshot
+"Gatito Fernández" "Paraguay" headshot
+"Gastón Olveira" "Paraguay" headshot
+"Orlando Gil" "Paraguay" headshot
+"Juan Cáceres" "Paraguay" headshot
+"Gustavo Gómez" "Paraguay" headshot
+"Gustavo Velázquez" "Paraguay" headshot
+"Júnior Alonso" "Paraguay" headshot
+"Alan Benítez" "Paraguay" headshot
+"Fabián Balbuena" "Paraguay" headshot
+"Omar Alderete" "Paraguay" headshot
+"José Canale" "Paraguay" headshot
+"Julio Enciso" "Paraguay" headshot
+"Lucas Romero" "Paraguay" headshot
+"Kaku" "Paraguay" headshot
+"Diego Gómez" "Paraguay" headshot
+"Braian Ojeda" "Paraguay" headshot
+"Mauricio" "Paraguay" headshot
+"Matías Galarza" "Paraguay" headshot
+"Damián Bobadilla" "Paraguay" headshot
+"Miguel Almirón" "Paraguay" headshot
+"Gustavo Caballero" "Paraguay" headshot
+"Antonio Sanabria" "Paraguay" headshot
+"Gabriel Ávalos" "Paraguay" headshot
+"Alex Arce" "Paraguay" headshot
+"Ramón Sosa" "Paraguay" headshot
+"Alexandro Maidana" "Paraguay" headshot
+"Mert Günok" "Türkiye" headshot
+"Ugurcan Çakir" "Türkiye" headshot
+"Muhammed Sengezer" "Türkiye" headshot
+"Altay Bayindir" "Türkiye" headshot
+"Kaan Ayhan" "Türkiye" headshot
+"Abdülkerim Bardakci" "Türkiye" headshot
+"Ferdi Kadioglu" "Türkiye" headshot
+"Mert Müldür" "Türkiye" headshot
+"Ozan Kabak" "Türkiye" headshot
+"Merih Demiral" "Türkiye" headshot
+"Mustafa Eskihellac" "Türkiye" headshot
+"Zeki Çelik" "Türkiye" headshot
+"Eren Elmali" "Türkiye" headshot
+"Ahmetcan Kaplan" "Türkiye" headshot
+"Samet Akaydin" "Türkiye" headshot
+"Hakan Çalhanoglu" "Türkiye" headshot
+"Irfan Can Kahveci" "Türkiye" headshot
+"Salih Özcan" "Türkiye" headshot
+"Atakan Karazor" "Türkiye" headshot
+"Orkun Kökçü" "Türkiye" headshot
+"Ismail Yüksek" "Türkiye" headshot
+"Arda Güler" "Türkiye" headshot
+"Yunus Akgün" "Türkiye" headshot
+"Kerem Aktürkoglu" "Türkiye" headshot
+"Baris Alper Yilmaz" "Türkiye" headshot
+"Oguz Aydin" "Türkiye" headshot
+"Semih Kiliçsoy" "Türkiye" headshot
+"Deniz Gül" "Türkiye" headshot
+"Kenan Yildiz" "Türkiye" headshot
+"Matthew Freese" "United States" headshot
+"Patrick Schulte" "United States" headshot
+"Chris Brady" "United States" headshot
+"Matt Turner" "United States" headshot
+"Mark McKenzie" "United States" headshot
+"Tim Ream" "United States" headshot
+"Antonee Robinson" "United States" headshot
+"Auston Trusty" "United States" headshot
+"Alex Freeman" "United States" headshot
+"Joe Scally" "United States" headshot
+"Chris Richards" "United States" headshot
+"Cristian Roldan" "United States" headshot
+"Christian Pulisic" "United States" headshot
+"Weston McKennie" "United States" headshot
+"Brenden Aaronson" "United States" headshot
+"Giovanni Reyna" "United States" headshot
+"Johnny Cardoso" "United States" headshot
+"Aidan Morris" "United States" headshot
+"Sebastian Berhalter" "United States" headshot
+"Malik Tillman" "United States" headshot
+"Tanner Tessmann" "United States" headshot
+"Patrick Agyemang" "United States" headshot
+"Timothy Weah" "United States" headshot
+"Folarin Balogun" "United States" headshot
+"Ricardo Pepi" "United States" headshot
+"Max Arfsten" "United States" headshot
+"Gonzalo Valle" "Ecuador" headshot
+"Hernán Galíndez" "Ecuador" headshot
+"David Cabezas" "Ecuador" headshot
+"Moisés Ramírez" "Ecuador" headshot
+"Cristian Ramírez" "Ecuador" headshot
+"Pervis Estupiñán" "Ecuador" headshot
+"Bryan Ramirez" "Ecuador" headshot
+"Félix Torres" "Ecuador" headshot
+"Ángelo Preciado" "Ecuador" headshot
+"Jackson Porozo" "Ecuador" headshot
+"Willian Pacho" "Ecuador" headshot
+"Leonardo Realpe" "Ecuador" headshot
+"Piero Hincapié" "Ecuador" headshot
+"José Hurtado" "Ecuador" headshot
+"Yaimar Medina" "Ecuador" headshot
+"Joel Ordóñez" "Ecuador" headshot
+"Kevin Rodríguez" "Ecuador" headshot
+"Alan Franco" "Ecuador" headshot
+"Jordy Alcivar" "Ecuador" headshot
+"Moisés Caicedo" "Ecuador" headshot
+"Pedro Vite" "Ecuador" headshot
+"Denil Castillo" "Ecuador" headshot
+"Kendry Páez" "Ecuador" headshot
+"Enner Valencia" "Ecuador" headshot
+"Jordy Caicedo" "Ecuador" headshot
+"Janner Corozo" "Ecuador" headshot
+"John Yeboah" "Ecuador" headshot
+"Gonzalo Plata" "Ecuador" headshot
+"John Mercado" "Ecuador" headshot
+"Anthony Valencia" "Ecuador" headshot
+"Alan Minda" "Ecuador" headshot
+"Jeremy Arévalo" "Ecuador" headshot
+"Elias Legendre" "Ecuador" headshot
+"Oliver Baumann" "Germany" headshot
+"Alexander Nübel" "Germany" headshot
+"Finn Dahmen" "Germany" headshot
+"Jonas Urbig" "Germany" headshot
+"Nathaniel Brown" "Germany" headshot
+"Antonio Rüdiger" "Germany" headshot
+"Jonathan Tah" "Germany" headshot
+"Waldemar Anton" "Germany" headshot
+"David Raum" "Germany" headshot
+"Josha Vagnoman" "Germany" headshot
+"Nico Schlotterbeck" "Germany" headshot
+"Malick Thiaw" "Germany" headshot
+"Pascal Groß" "Germany" headshot
+"Leon Goretzka" "Germany" headshot
+"Joshua Kimmich" "Germany" headshot
+"Chris Führich" "Germany" headshot
+"Angelo Stiller" "Germany" headshot
+"Florian Wirtz" "Germany" headshot
+"Anton Stach" "Germany" headshot
+"Kevin Schade" "Germany" headshot
+"Lennart Karl" "Germany" headshot
+"Serge Gnabry" "Germany" headshot
+"Leroy Sané" "Germany" headshot
+"Kai Havertz" "Germany" headshot
+"Deniz Undav" "Germany" headshot
+"Nick Woltemade" "Germany" headshot
+"Alban Lafont" "Ivory Coast" headshot
+"Yahia Fofana" "Ivory Coast" headshot
+"Mohamed Koné" "Ivory Coast" headshot
+"Evan Ndicka" "Ivory Coast" headshot
+"Ghislain Konan" "Ivory Coast" headshot
+"Odilon Kossounou" "Ivory Coast" headshot
+"Wilfried Singo" "Ivory Coast" headshot
+"Emmanuel Agbadou" "Ivory Coast" headshot
+"Ousmane Diomande" "Ivory Coast" headshot
+"Clément Akpa" "Ivory Coast" headshot
+"Guela Doué" "Ivory Coast" headshot
+"Seko Fofana" "Ivory Coast" headshot
+"Jean Michaël Seri" "Ivory Coast" headshot
+"Franck Kessié" "Ivory Coast" headshot
+"Ibrahim Sangaré" "Ivory Coast" headshot
+"Parfait Guiagon" "Ivory Coast" headshot
+"Christ Inao Oulaï" "Ivory Coast" headshot
+"Nicolas Pépé" "Ivory Coast" headshot
+"Evann Guessand" "Ivory Coast" headshot
