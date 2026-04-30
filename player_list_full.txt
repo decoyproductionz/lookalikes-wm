@@ -34,12 +34,12 @@
 "Richard Ledezma" "Mexico" headshot
 "Israel Reyes" "Mexico" headshot
 "Everardo López" "Mexico" headshot
+"Brian Gutiérrez" "Mexico" headshot
 "Érick Sánchez" "Mexico" headshot
 "Orbelín Pineda" "Mexico" headshot
 "Carlos Rodríguez" "Mexico" headshot
 "Erik Lira" "Mexico" headshot
 "Álvaro Fidalgo" "Mexico" headshot
-"Brian Gutiérrez" "Mexico" headshot
 "Obed Vargas" "Mexico" headshot
 "Denzell García" "Mexico" headshot
 "Raúl Jiménez" "Mexico" headshot
@@ -131,13 +131,13 @@
 "Kamal Miller" "Canada" headshot
 "Jahkeele Marshall-Rutty" "Canada" headshot
 "Luc Rollet" "Canada" headshot
+"Ali Ahmed" "Canada" headshot
 "Jonathan Osorio" "Canada" headshot
 "Marcelo Flores" "Canada" headshot
 "Mathieu Choinière" "Canada" headshot
 "Ralph Priso-Mbongue" "Canada" headshot
 "Nathan Saliba" "Canada" headshot
 "Ismaël Koné" "Canada" headshot
-"Ali Ahmed" "Canada" headshot
 "Niko Sigur" "Canada" headshot
 "Junior Hoilett" "Canada" headshot
 "Cyle Larin" "Canada" headshot
@@ -348,6 +348,7 @@
 "Fabián Balbuena" "Paraguay" headshot
 "Omar Alderete" "Paraguay" headshot
 "José Canale" "Paraguay" headshot
+"Alexandro Maidana" "Paraguay" headshot
 "Julio Enciso" "Paraguay" headshot
 "Lucas Romero" "Paraguay" headshot
 "Kaku" "Paraguay" headshot
@@ -362,7 +363,6 @@
 "Gabriel Ávalos" "Paraguay" headshot
 "Alex Arce" "Paraguay" headshot
 "Ramón Sosa" "Paraguay" headshot
-"Alexandro Maidana" "Paraguay" headshot
 "Mert Günok" "Türkiye" headshot
 "Ugurcan Çakir" "Türkiye" headshot
 "Muhammed Sengezer" "Türkiye" headshot
@@ -434,7 +434,6 @@
 "José Hurtado" "Ecuador" headshot
 "Yaimar Medina" "Ecuador" headshot
 "Joel Ordóñez" "Ecuador" headshot
-"Kevin Rodríguez" "Ecuador" headshot
 "Alan Franco" "Ecuador" headshot
 "Jordy Alcivar" "Ecuador" headshot
 "Moisés Caicedo" "Ecuador" headshot
@@ -446,6 +445,7 @@
 "Janner Corozo" "Ecuador" headshot
 "John Yeboah" "Ecuador" headshot
 "Gonzalo Plata" "Ecuador" headshot
+"Kevin Rodríguez" "Ecuador" headshot
 "John Mercado" "Ecuador" headshot
 "Anthony Valencia" "Ecuador" headshot
 "Alan Minda" "Ecuador" headshot
@@ -492,8 +492,8 @@
 "Jean Michaël Seri" "Ivory Coast" headshot
 "Franck Kessié" "Ivory Coast" headshot
 "Ibrahim Sangaré" "Ivory Coast" headshot
-"Parfait Guiagon" "Ivory Coast" headshot
 "Christ Inao Oulaï" "Ivory Coast" headshot
+"Parfait Guiagon" "Ivory Coast" headshot
 "Nicolas Pépé" "Ivory Coast" headshot
 "Evann Guessand" "Ivory Coast" headshot
 "Amad" "Ivory Coast" headshot
@@ -714,9 +714,9 @@
 "Callum McCowatt" "New Zealand" headshot
 "Joe Bell" "New Zealand" headshot
 "Marko Stamenic" "New Zealand" headshot
+"Elijah Just" "New Zealand" headshot
 "Kosta Barbarouses" "New Zealand" headshot
 "Logan Rogerson" "New Zealand" headshot
-"Elijah Just" "New Zealand" headshot
 "Ben Waine" "New Zealand" headshot
 "Jesse Randall" "New Zealand" headshot
 "Ben Old" "New Zealand" headshot
@@ -734,7 +734,7 @@
 "Semedo" "Cape Verde" headshot
 "Laros Duarte" "Cape Verde" headshot
 "Deroy Duarte" "Cape Verde" headshot
-"Telmo Arcanjo" "Cape Verde" headshot
+"Arcanjo" "Cape Verde" headshot
 "João Paulo" "Cape Verde" headshot
 "Kevin Pina" "Cape Verde" headshot
 "Ayoni Santos" "Cape Verde" headshot
@@ -769,8 +769,8 @@
 "Ziyad Aljohani" "Saudi Arabia" headshot
 "Musab Al-Juwayr" "Saudi Arabia" headshot
 "Naif Masoud" "Saudi Arabia" headshot
-"Mohammed Mater Mohsin Mahzari" "Saudi Arabia" headshot
-"Murad Bin Othman Bin Harun Al Hawsawi" "Saudi Arabia" headshot
+"Mohammed Mahzari" "Saudi Arabia" headshot
+"Murad Al Hawsawi" "Saudi Arabia" headshot
 "Saleh Al-Shehri" "Saudi Arabia" headshot
 "Feras Al-Brikan" "Saudi Arabia" headshot
 "Sultan Mandash" "Saudi Arabia" headshot
@@ -827,8 +827,8 @@
 "Maxi Araújo" "Uruguay" headshot
 "Juan Manuel Sanabria" "Uruguay" headshot
 "Facundo Pellistri" "Uruguay" headshot
-"Luciano Gonzalez" "Uruguay" headshot
 "Pablo Alcoba" "Uruguay" headshot
+"Luciano González" "Uruguay" headshot
 "Facundo Torres" "Uruguay" headshot
 "Brian Rodríguez" "Uruguay" headshot
 "Rodrigo Aguirre" "Uruguay" headshot
@@ -863,42 +863,34 @@
 "Randal Kolo Muani" "France" headshot
 "Hugo Ekitike" "France" headshot
 "Désiré Doué" "France" headshot
-"Cláudio Ramos14" "Iraq" headshot
-"Joao Costa24" "Iraq" headshot
-"Diogo Fernandes51" "Iraq" headshot
-"Gonçalo Ribeiro91" "Iraq" headshot
-"Diogo Costa99" "Iraq" headshot
-"Thiago Silva3" "Iraq" headshot
-"Jakub Kiwior4" "Iraq" headshot
-"Jan Bednarek5" "Iraq" headshot
-"Zaidu Sanusi12" "Iraq" headshot
-"Nehuén Pérez18" "Iraq" headshot
-"Alberto Costa20" "Iraq" headshot
-"Dominik Prpic21" "Iraq" headshot
-"Martim Fernandes52" "Iraq" headshot
-"Gabi Brás73" "Iraq" headshot
-"Moura74" "Iraq" headshot
-"Victor Froholdt8" "Iraq" headshot
-"Gabri Veiga10" "Iraq" headshot
-"Pablo Rosario13" "Iraq" headshot
-"Alan Varela22" "Iraq" headshot
-"Seko Fofana42" "Iraq" headshot
-"Tiago Silva58" "Iraq" headshot
-"André Oliveira68" "Iraq" headshot
-"Rodrigo Mora86" "Iraq" headshot
-"João Teixeira92" "Iraq" headshot
-"William Gomes7" "Iraq" headshot
-"Samu Aghehowa9" "Iraq" headshot
-"Pepê11" "Iraq" headshot
-"Borja Sainz17" "Iraq" headshot
-"Luuk de Jong26" "Iraq" headshot
-"Deniz Gül27" "Iraq" headshot
-"Terem Moffi29" "Iraq" headshot
-"Gonçalo Santos Sousa49" "Iraq" headshot
-"Tiago Andrade59" "Iraq" headshot
-"André Miranda72" "Iraq" headshot
-"Yann Karamoh75" "Iraq" headshot
-"Oskar Pietuszewski77" "Iraq" headshot
+"Fahad Talib Raheem" "Iraq" headshot
+"Ahmed Basil Al-Fadhli" "Iraq" headshot
+"Kumel Saadi" "Iraq" headshot
+"Frans Dhia Haddad" "Iraq" headshot
+"Rebin Solaka" "Iraq" headshot
+"Hussein Ali" "Iraq" headshot
+"Maytham Jabbar" "Iraq" headshot
+"Munaf Younis Hashim" "Iraq" headshot
+"Merchas Doski" "Iraq" headshot
+"Ahmed Hasan" "Iraq" headshot
+"Akam Hashim Rahman" "Iraq" headshot
+"Zaid Tahseen" "Iraq" headshot
+"Ibrahim Bayesh" "Iraq" headshot
+"Kevin Yakob" "Iraq" headshot
+"Peter Gwargis" "Iraq" headshot
+"Aimar Sher" "Iraq" headshot
+"Amir Al-Ammari" "Iraq" headshot
+"Zidane Iqbal" "Iraq" headshot
+"Marko Lawk Farji" "Iraq" headshot
+"Hasan Abdulkareem" "Iraq" headshot
+"Zaid Ismael Khaleel Al Dulaimi" "Iraq" headshot
+"Aymen Hussein" "Iraq" headshot
+"Mohannad Ali Kadhim" "Iraq" headshot
+"Ali Yousif Hashim" "Iraq" headshot
+"Ali Jasim" "Iraq" headshot
+"Youssef Amyn" "Iraq" headshot
+"Ali Ibrahim Al-Hamadi" "Iraq" headshot
+"Karrar Nabeel19" "Iraq" headshot
 "Ørjan Nyland" "Norway" headshot
 "Viljar Myhra" "Norway" headshot
 "Egil Selvik" "Norway" headshot
@@ -940,7 +932,7 @@
 "Pape Gueye" "Senegal" headshot
 "Pathé Ciss" "Senegal" headshot
 "Pape Matar Sarr" "Senegal" headshot
-"Mouhamadou Diarra" "Senegal" headshot
+"Habib Diarra" "Senegal" headshot
 "Habib Diallo" "Senegal" headshot
 "Ismaïla Sarr" "Senegal" headshot
 "Cherif Ndiaye" "Senegal" headshot
@@ -1061,7 +1053,7 @@
 "Abdallah Khaled Khaleel Al-Shuaybat" "Jordan" headshot
 "Ibrahim Mohammad Abdallah Sabra" "Jordan" headshot
 "Odeh Burhan Shehade Fakhoury" "Jordan" headshot
-"Ali Ahmad Ali Azaizeh" "Jordan" headshot
+"Ali Azaizeh" "Jordan" headshot
 "David Ospina" "Colombia" headshot
 "Álvaro Montero" "Colombia" headshot
 "Camilo Vargas" "Colombia" headshot
