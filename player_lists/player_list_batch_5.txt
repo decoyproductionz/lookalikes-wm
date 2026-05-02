@@ -1,0 +1,34 @@
+"Anthony Mandrea" "Algeria" headshot
+"Luca Zidane" "Algeria" headshot
+"Ramy Bensebaini" "Algeria" headshot
+"Alessandro Circati" "Australia" headshot
+"Alex Robertson" "Australia" headshot
+"Aziz Behich" "Australia" headshot
+"Cameron Burgess" "Australia" headshot
+"Jason Geria" "Australia" headshot
+"Mathew Ryan" "Australia" headshot
+"Patrick Yazbek" "Australia" headshot
+"Riley McGree" "Australia" headshot
+"Richard Ríos" "Colombia" headshot
+"Harry Kane" "England" headshot
+"Malo Gusto" "France" headshot
+"Zaid Ismael Khaleel Al Dulaimi" "Iraq" headshot
+"Ibrahim Sadeh" "Jordan" headshot
+"Achraf Hakimi" "Morocco" headshot
+"Mehdi Harrar" "Morocco" headshot
+"Zakaria El Ouahdi" "Morocco" headshot
+"César Samudio" "Panama" headshot
+"Anthony Ralston" "Scotland" headshot
+"Billy Gilmour" "Scotland" headshot
+"Ché Adams" "Scotland" headshot
+"Jack Hendry" "Scotland" headshot
+"John McGinn" "Scotland" headshot
+"Kenny McLean" "Scotland" headshot
+"Lyndon Dykes" "Scotland" headshot
+"Arda Güler" "Türkiye" headshot
+"Eren Elmali" "Türkiye" headshot
+"Irfan Can Kahveci" "Türkiye" headshot
+"Muhammed Sengezer" "Türkiye" headshot
+"Orkun Kökçü" "Türkiye" headshot
+"Salih Özcan" "Türkiye" headshot
+"Zeki Çelik" "Türkiye" headshot
