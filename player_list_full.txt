@@ -95,7 +95,7 @@
 "Son Heung-Min" "South Korea" headshot
 "Hwang Hee-Chan" "South Korea" headshot
 "Eom Ji-Sung" "South Korea" headshot
-"Oh Hyun-Gyu" "South Korea" headshot
+"Oh Hyeon-Gyu" "South Korea" headshot
 "Cho Gue-Sung" "South Korea" headshot
 "Yang Hyun-Jun" "South Korea" headshot
 "Nikola Vasiljev" "Bosnia-Herzegovina" headshot
@@ -131,13 +131,13 @@
 "Kamal Miller" "Canada" headshot
 "Jahkeele Marshall-Rutty" "Canada" headshot
 "Luc Rollet" "Canada" headshot
-"Ali Ahmed" "Canada" headshot
 "Jonathan Osorio" "Canada" headshot
 "Marcelo Flores" "Canada" headshot
 "Mathieu Choinière" "Canada" headshot
 "Ralph Priso-Mbongue" "Canada" headshot
 "Nathan Saliba" "Canada" headshot
 "Ismaël Koné" "Canada" headshot
+"Ali Ahmed" "Canada" headshot
 "Niko Sigur" "Canada" headshot
 "Junior Hoilett" "Canada" headshot
 "Cyle Larin" "Canada" headshot
@@ -205,7 +205,7 @@
 "Breel Embolo" "Switzerland" headshot
 "Noah Okafor" "Switzerland" headshot
 "Dan Ndoye" "Switzerland" headshot
-"Joel Monteiro" "Switzerland" headshot
+"Joel Almada Monteiro" "Switzerland" headshot
 "Ederson" "Brazil" headshot
 "Hugo Souza" "Brazil" headshot
 "Bento" "Brazil" headshot
@@ -348,7 +348,6 @@
 "Fabián Balbuena" "Paraguay" headshot
 "Omar Alderete" "Paraguay" headshot
 "José Canale" "Paraguay" headshot
-"Alexandro Maidana" "Paraguay" headshot
 "Julio Enciso" "Paraguay" headshot
 "Lucas Romero" "Paraguay" headshot
 "Kaku" "Paraguay" headshot
@@ -363,6 +362,7 @@
 "Gabriel Ávalos" "Paraguay" headshot
 "Alex Arce" "Paraguay" headshot
 "Ramón Sosa" "Paraguay" headshot
+"Alexandro Maidana" "Paraguay" headshot
 "Mert Günok" "Türkiye" headshot
 "Ugurcan Çakir" "Türkiye" headshot
 "Muhammed Sengezer" "Türkiye" headshot
@@ -422,6 +422,7 @@
 "Hernán Galíndez" "Ecuador" headshot
 "David Cabezas" "Ecuador" headshot
 "Moisés Ramírez" "Ecuador" headshot
+"Cristian Ramírez" "Ecuador" headshot
 "Pervis Estupiñán" "Ecuador" headshot
 "Bryan Ramirez" "Ecuador" headshot
 "Félix Torres" "Ecuador" headshot
@@ -433,7 +434,6 @@
 "José Hurtado" "Ecuador" headshot
 "Yaimar Medina" "Ecuador" headshot
 "Joel Ordóñez" "Ecuador" headshot
-"Cristian Ramírez" "Ecuador" headshot
 "Alan Franco" "Ecuador" headshot
 "Jordy Alcivar" "Ecuador" headshot
 "Moisés Caicedo" "Ecuador" headshot
@@ -492,8 +492,8 @@
 "Jean Michaël Seri" "Ivory Coast" headshot
 "Franck Kessié" "Ivory Coast" headshot
 "Ibrahim Sangaré" "Ivory Coast" headshot
-"Christ Inao Oulaï" "Ivory Coast" headshot
 "Parfait Guiagon" "Ivory Coast" headshot
+"Christ Inao Oulaï" "Ivory Coast" headshot
 "Nicolas Pépé" "Ivory Coast" headshot
 "Evann Guessand" "Ivory Coast" headshot
 "Amad" "Ivory Coast" headshot
@@ -827,8 +827,8 @@
 "Maxi Araújo" "Uruguay" headshot
 "Juan Manuel Sanabria" "Uruguay" headshot
 "Facundo Pellistri" "Uruguay" headshot
+"Luciano Gonzalez" "Uruguay" headshot
 "Pablo Alcoba" "Uruguay" headshot
-"Luciano González" "Uruguay" headshot
 "Facundo Torres" "Uruguay" headshot
 "Brian Rodríguez" "Uruguay" headshot
 "Rodrigo Aguirre" "Uruguay" headshot
@@ -932,7 +932,7 @@
 "Pape Gueye" "Senegal" headshot
 "Pathé Ciss" "Senegal" headshot
 "Pape Matar Sarr" "Senegal" headshot
-"Habib Diarra" "Senegal" headshot
+"Mouhamadou Diarra" "Senegal" headshot
 "Habib Diallo" "Senegal" headshot
 "Ismaïla Sarr" "Senegal" headshot
 "Cherif Ndiaye" "Senegal" headshot
@@ -1108,7 +1108,7 @@
 "Brian Cipenga" "Congo DR" headshot
 "Rui Silva" "Portugal" headshot
 "José Sá" "Portugal" headshot
-"Ricardo Velho" "Portugal" headshot
+"Mário Ricardo Silva Velho" "Portugal" headshot
 "João Cancelo" "Portugal" headshot
 "Diogo Dalot" "Portugal" headshot
 "Nuno Mendes" "Portugal" headshot
