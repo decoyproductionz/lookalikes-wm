@@ -1,6 +1,13 @@
 images/
-venv/
+.venv/
 .env
 per_image_*
 clip_per_image_embeddings.npz
 clip_per_image_checkpoint.pkl
+per_image_checkpoint.pkl
+per_image_embeddings.npz
+per_image_embeddings.pkl
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
