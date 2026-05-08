@@ -2,3 +2,5 @@ images/
 venv/
 .env
 per_image_*
+clip_per_image_embeddings.npz
+clip_per_image_checkpoint.pkl
