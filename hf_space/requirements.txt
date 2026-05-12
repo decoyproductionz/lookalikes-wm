@@ -1,0 +1,8 @@
+gradio>=4.0
+numpy<2
+insightface
+onnxruntime
+opencv-python-headless
+pillow
+open_clip_torch
+torch

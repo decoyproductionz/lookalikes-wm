@@ -23,31 +23,25 @@
 "Tomás Chorý" "Czechia" headshot
 "Tomás Ladra" "Czechia" headshot
 "Mojmír Chytil" "Czechia" headshot
-"Guillermo Ochoa" "Mexico" headshot
 "Carlos Acevedo" "Mexico" headshot
 "Raúl Rangel" "Mexico" headshot
+"Oscar García" "Mexico" headshot
 "Jesús Gallardo" "Mexico" headshot
-"Jorge Sánchez" "Mexico" headshot
-"César Montes" "Mexico" headshot
-"Jesús Angulo" "Mexico" headshot
-"Johan Vásquez" "Mexico" headshot
-"Richard Ledezma" "Mexico" headshot
+"Luis Gabriel Rey" "Mexico" headshot
+"Jesús Gómez" "Mexico" headshot
 "Israel Reyes" "Mexico" headshot
-"Everardo López" "Mexico" headshot
-"Érick Sánchez" "Mexico" headshot
-"Orbelín Pineda" "Mexico" headshot
-"Carlos Rodríguez" "Mexico" headshot
+"Eduardo Águila" "Mexico" headshot
+"Luis Romo" "Mexico" headshot
+"Kevin Castañeda" "Mexico" headshot
 "Erik Lira" "Mexico" headshot
-"Álvaro Fidalgo" "Mexico" headshot
 "Brian Gutiérrez" "Mexico" headshot
-"Obed Vargas" "Mexico" headshot
 "Denzell García" "Mexico" headshot
-"Raúl Jiménez" "Mexico" headshot
+"Iker Fimbres" "Mexico" headshot
+"Gilberto Mora" "Mexico" headshot
 "Guillermo Martínez" "Mexico" headshot
 "Roberto Alvarado" "Mexico" headshot
-"Germán Berterame" "Mexico" headshot
 "Alexis Vega" "Mexico" headshot
-"Julián Quiñones" "Mexico" headshot
+"Jairo Torres" "Mexico" headshot
 "Armando González" "Mexico" headshot
 "Ricardo Goss" "South Africa" headshot
 "Ronwen Williams" "South Africa" headshot
@@ -463,7 +457,7 @@
 "Josha Vagnoman" "Germany" headshot
 "Nico Schlotterbeck" "Germany" headshot
 "Malick Thiaw" "Germany" headshot
-"Pascal Groß" "Germany" headshot
+"Pascal Gross" "Germany" headshot
 "Leon Goretzka" "Germany" headshot
 "Joshua Kimmich" "Germany" headshot
 "Chris Führich" "Germany" headshot
@@ -769,8 +763,8 @@
 "Ziyad Aljohani" "Saudi Arabia" headshot
 "Musab Al-Juwayr" "Saudi Arabia" headshot
 "Naif Masoud" "Saudi Arabia" headshot
-"Mohammed Mahzari" "Saudi Arabia" headshot
-"Murad Al Hawsawi" "Saudi Arabia" headshot
+"Mohammed Mater Mohsin Mahzari" "Saudi Arabia" headshot
+"Murad Bin Othman Bin Harun Al Hawsawi" "Saudi Arabia" headshot
 "Saleh Al-Shehri" "Saudi Arabia" headshot
 "Feras Al-Brikan" "Saudi Arabia" headshot
 "Sultan Mandash" "Saudi Arabia" headshot
@@ -1053,7 +1047,7 @@
 "Abdallah Khaled Khaleel Al-Shuaybat" "Jordan" headshot
 "Ibrahim Mohammad Abdallah Sabra" "Jordan" headshot
 "Odeh Burhan Shehade Fakhoury" "Jordan" headshot
-"Ali Azaizeh" "Jordan" headshot
+"Ali Ahmad Ali Azaizeh" "Jordan" headshot
 "David Ospina" "Colombia" headshot
 "Álvaro Montero" "Colombia" headshot
 "Camilo Vargas" "Colombia" headshot
@@ -1135,29 +1129,43 @@
 "Botirali Ergashev" "Uzbekistan" headshot
 "Utkir Yusupov" "Uzbekistan" headshot
 "Abduvohid Nematov" "Uzbekistan" headshot
+"Vladimir Nazarov" "Uzbekistan" headshot
 "Rustamjon Ashurmatov" "Uzbekistan" headshot
 "Farrukh Sayfiev" "Uzbekistan" headshot
 "Umarbek Eshmurodov" "Uzbekistan" headshot
 "Khojiakbar Alijonov" "Uzbekistan" headshot
+"Avazbek Ulmasaliyev" "Uzbekistan" headshot
+"Ibrokhimkhalil Yuldoshev" "Uzbekistan" headshot
 "Sherzod Nasrullaev" "Uzbekistan" headshot
 "Abdukodir Khusanov" "Uzbekistan" headshot
+"Diyor Ortiqboyev" "Uzbekistan" headshot
 "Jakhongir O'Rozov" "Uzbekistan" headshot
 "Muhammadkodir Hamraliev" "Uzbekistan" headshot
 "Mukhammadrasul Abdumajidov" "Uzbekistan" headshot
 "Behruzjon Karimov" "Uzbekistan" headshot
 "Jamshid Iskanderov" "Uzbekistan" headshot
+"Jaloliddin Masharipov" "Uzbekistan" headshot
 "Odiljon Xamrobekov" "Uzbekistan" headshot
 "Dostonbek Khamdamov" "Uzbekistan" headshot
 "Otabek Shukurov" "Uzbekistan" headshot
+"Quvondiq Ro'ziyev" "Uzbekistan" headshot
 "Azizjon G'aniyev" "Uzbekistan" headshot
 "Akmal Mozgovoy" "Uzbekistan" headshot
 "Oston Urunov" "Uzbekistan" headshot
-"Sherzod Temirov" "Uzbekistan" headshot
+"Jasurbek Jaloliddinov" "Uzbekistan" headshot
+"Alisher Odilov" "Uzbekistan" headshot
+"Nodirbek Abdurazzokov" "Uzbekistan" headshot
+"Abbosbek Fayzullaev" "Uzbekistan" headshot
+"Abdulla Abdullaev" "Uzbekistan" headshot
+"Ruslanbek Jiyanov" "Uzbekistan" headshot
+"Sherzod Esanov" "Uzbekistan" headshot
 "Umarali Rakhmonaliev" "Uzbekistan" headshot
-"Ibrokhim Ibragimov" "Uzbekistan" headshot
+"Sardorbek Bakhromov" "Uzbekistan" headshot
 "Igor Sergeev" "Uzbekistan" headshot
 "Eldor Shomurodov" "Uzbekistan" headshot
-"Alisher Odilov" "Uzbekistan" headshot
+"Azizbek Amonov" "Uzbekistan" headshot
+"Sherzod Temirov" "Uzbekistan" headshot
+"Khusain Norchaev" "Uzbekistan" headshot
 "Dominik Livakovic" "Croatia" headshot
 "Karlo Letica" "Croatia" headshot
 "Ivor Pandur" "Croatia" headshot
@@ -1219,31 +1227,29 @@
 "Anthony Gordon" "England" headshot
 "Bukayo Saka" "England" headshot
 "Noni Madueke" "England" headshot
-"Lawrence Ati-Zigi" "Ghana" headshot
-"Joseph Anang" "Ghana" headshot
+"Paul Reverson" "Ghana" headshot
+"Solomon Agbasi" "Ghana" headshot
 "Benjamin Asare" "Ghana" headshot
-"Alexander Djiku" "Ghana" headshot
-"Derrick Luckassen" "Ghana" headshot
-"Jerome Opoku" "Ghana" headshot
-"Derrick Köhn" "Ghana" headshot
-"Gideon Mensah" "Ghana" headshot
-"Patric Pfeiffer" "Ghana" headshot
-"Marvin Senaya" "Ghana" headshot
-"Jonas Adjetey" "Ghana" headshot
-"Kojo Peprah Oppong" "Ghana" headshot
-"Thomas Partey" "Ghana" headshot
-"Elisha Owusu" "Ghana" headshot
-"Kwasi Sibo" "Ghana" headshot
-"Ibrahim Sulemana" "Ghana" headshot
-"Caleb Yirenkyi" "Ghana" headshot
-"Jordan Ayew" "Ghana" headshot
+"Ebenezer Annan" "Ghana" headshot
+"Nathaniel Adjei" "Ghana" headshot
+"Ebenezer Adade" "Ghana" headshot
+"Razak Simpson" "Ghana" headshot
+"Oscar Naasei Oppong" "Ghana" headshot
+"Ebenezer Abban" "Ghana" headshot
+"Manu Duah" "Ghana" headshot
+"Antwi Dacosta" "Ghana" headshot
+"Majeed Ashimeru" "Ghana" headshot
+"Francis Amuzu" "Ghana" headshot
+"Jesurun Rak-Sakyi" "Ghana" headshot
+"Aziz Issah" "Ghana" headshot
+"Emmanuel Agyei" "Ghana" headshot
+"Salim Adams" "Ghana" headshot
+"Augustine Boakye" "Ghana" headshot
 "Daniel Agyei" "Ghana" headshot
-"Antoine Semenyo" "Ghana" headshot
-"Ransford-Yeboah Königsdörffer" "Ghana" headshot
-"Kamaldeen Sulemana" "Ghana" headshot
-"Fatawu Issahaku" "Ghana" headshot
-"Christopher Baah" "Ghana" headshot
-"Prince Adu" "Ghana" headshot
+"Felix Afena-Gyan" "Ghana" headshot
+"Ibrahim Osman" "Ghana" headshot
+"Prince Amoako" "Ghana" headshot
+"Joseph Opoku" "Ghana" headshot
 "Luis Mejía" "Panama" headshot
 "Orlando Mosquera" "Panama" headshot
 "César Samudio" "Panama" headshot
